@@ -1,0 +1,11 @@
+float x (integer a, integer b, integer c, integer d, integer e) { 
+ x = a; 
+ x = 0x36AW; 
+ x = ((((((((((y)))))))))); 
+ x = (5+(4-(3+(5+5/(2+(3+(1+(777777777+(1-(y)))))))))) + "hello" + 'q'; 
+ if (a < b) {} else {} 
+ if (a < b) { if (a < b) {} else { if (a < b) {} else {}}} else {} 
+ method ("helo"); 
+ method ( ((((((5)))))) ); 
+ method ( (((5/3/3/3-1*333333+0xABCD))), ((((((5)))))), ((((5)))) ); 
+}

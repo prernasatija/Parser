@@ -1,0 +1,4 @@
+all: 	
+	gcc -o Prerna_Output lexer.cpp parser2.cpp -lstdc++
+	./Prerna_Output Prerna_Satija_Project2_input1.txt Prerna_Satija_Project2_output1.txt
+	./Prerna_Output Prerna_Satija_Project2_input2.txt Prerna_Satija_Project2_output2.txt
